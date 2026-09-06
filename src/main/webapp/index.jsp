@@ -1130,7 +1130,7 @@
                 </button>
                 <a class="brand" href="#">
                     <i class="fas fa-store-alt"></i>
-                    <span>Nexus<span class="accent">Sheshu-Shop-worker</span></span>
+                    <span>Nexus<span class="accent">Sheshu-worker</span></span>
                 </a>
             </div>
 
