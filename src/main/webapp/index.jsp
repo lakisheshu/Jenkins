@@ -1130,7 +1130,7 @@
                 </button>
                 <a class="brand" href="#">
                     <i class="fas fa-store-alt"></i>
-                    <span>PerodicBuild<span class="accent">Sheshu-Normal</span></span>
+                    <span>PollSCM<span class="accent">Sheshu-Normal</span></span>
                 </a>
             </div>
 
