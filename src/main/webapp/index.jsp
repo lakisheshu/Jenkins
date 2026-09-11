@@ -1130,7 +1130,7 @@
                 </button>
                 <a class="brand" href="#">
                     <i class="fas fa-store-alt"></i>
-                    <span>PollSCM<span class="accent">Sheshu-Normal</span></span>
+                    <span>PollSCM<span class="accent">Sheshu-Pipeline-Practice</span></span>
                 </a>
             </div>
 
